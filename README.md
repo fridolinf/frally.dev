@@ -33,25 +33,19 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fridolinf&show_icons=true&locale=en&layout=compact"
     alt="fridolinf"
-    width="300"
   />
-  &nbsp;
-  &nbsp;
+</p>
+<p>
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=fridolinf&"
     alt="fridolinf"
-    width="300"
   />
-  &nbsp;
-  &nbsp;
+</p>
+<p>
   <img
     src="https://github-readme-stats.vercel.app/api?username=fridolinf&show_icons=true&locale=en"
     alt="fridolinf"
-    width="300"
   />
-</p>
-  
-<p align="center">
 </p>
 
 <h3 align="left">📘 Languages, Tools, Library and Others:</h3>
