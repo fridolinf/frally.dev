@@ -29,7 +29,7 @@
 <p>⚡ Fun fact <b>I think if we really tired within code can any funny moment<b></p>
  
  <br/>
-<p align="center">
+<p>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fridolinf&show_icons=true&locale=en&layout=compact"
     alt="fridolinf"
