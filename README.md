@@ -25,7 +25,7 @@
 
 <p>🌱 Now i am exploring anything about blockchain and frontend technologies</p> 
 <p>💬 Ask me anything <b>I will be answer if i can ^_^</b></p>
-<p>📫 How to reach me <b>frelly.130@gmail.com</b></p>
+<p>📫 How to reach me <b>frelly130@gmail.com</b></p>
 <p>⚡ Fun fact <b>I think if we really tired within code can any funny moment<b></p>
  
  <br/>
