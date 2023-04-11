@@ -147,7 +147,7 @@
     ><img
       src="https://camo.githubusercontent.com/282b2f6fd357547560aea23fe59d11ee43c27713b159c506701d16be783a54dc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d41616d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e266c6f676f436f6c6f723d7768697465"
       alt="Amazon AWS"
-      data-canonical-src="http://img.shields.io/badge/-Aamazon%20AWS-232F3E?style=flat-square&amp;logo=amazon&amp;logoColor=white"
+      data-canonical-src="http://img.shields.io/badge/-amazon%20AWS-232F3E?style=flat-square&amp;logo=amazon&amp;logoColor=white"
       style="max-width: 100%"
   /></a>&nbsp;
   <a
