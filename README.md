@@ -370,4 +370,33 @@
       data-canonical-src="https://img.shields.io/badge/-Figma-f1c232?style=flat-square&logo=figma&logoColor=F24E1E"
       style="max-width: 100%"
   /></a>
-  </p>
+    <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://www.cypress.io/"
+    ><img
+      src="https://img.shields.io/badge/-Cypress-f1c112?style=flat-square&logo=cypress&logoColor=F4411E"
+      alt="Cypress"
+      data-canonical-src="https://img.shields.io/badge/-Cypress-f1c112?style=flat-square&logo=cypress&logoColor=F2411E"
+      style="max-width: 100%"
+  /></a>
+   <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://pinia.vuejs.org/"
+    ><img
+      src="https://img.shields.io/badge/-Pinia-363633?style=flat-square&logo=pinia&logoColor=fcff57"
+      alt="Pinia"
+      data-canonical-src="https://img.shields.io/badge/-Pinia-363633?style=flat-square&logo=pinia&logoColor=fcff57"
+      style="max-width: 100%"
+  /></a>
+ <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://vitest.dev/"
+    ><img
+      src="https://img.shields.io/badge/-Vitest-000000?style=flat-square&logo=vitest&logoColor=cff07d"
+      alt="Vitest"
+      data-canonical-src="https://img.shields.io/badge/-Vitest-000000?style=flat-square&logo=vitest&logoColor=cff07d"
+      style="max-width: 100%"
+  /></a>
