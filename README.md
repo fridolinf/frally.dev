@@ -400,3 +400,23 @@
       data-canonical-src="https://img.shields.io/badge/-Vitest-000000?style=flat-square&logo=vitest&logoColor=cff07d"
       style="max-width: 100%"
   /></a>
+ <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://nuxt.com/"
+    ><img
+      src="https://img.shields.io/badge/-Nuxt-60bd79?style=flat-square&logo=nuxtjs&logoColor=000000"
+      alt="Nuxt"
+      data-canonical-src="https://img.shields.io/badge/-Nuxt-60bd79?style=flat-square&logo=nuxtjs&logoColor=000000"
+      style="max-width: 100%"
+  /></a>
+ <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://www.cypress.io/"
+    ><img
+      src="https://img.shields.io/badge/-Cypress-000000?style=flat-square&logo=cypress&logoColor=15732e"
+      alt="Cypress"
+      data-canonical-src="https://img.shields.io/badge/-Cypress-000000?style=flat-square&logo=cypress&logoColor=15732e"
+      style="max-width: 100%"
+  /></a>
