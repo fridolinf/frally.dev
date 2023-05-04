@@ -31,7 +31,7 @@
  <br/>
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=fridolinf&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=fridolinf&show_icons=true&locale=en&layout=compact"
     alt="fridolinf"
   />
 </p>
@@ -43,7 +43,7 @@
 </p>
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=fridolinf&show_icons=true&locale=en"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=fridolinf&show_icons=true&locale=en"
     alt="fridolinf"
   />
 </p>
