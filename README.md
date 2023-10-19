@@ -9,6 +9,8 @@
 <h1 align="center">Hi 👋, I'm Frally Fridolin</h1>
 <h3 align="center">A really passionate with Frontend and Blockchain Technologies</h3>
 <p align="center">I currently work as a Frontend Software Engineer at <b>Airdrop Technologies</b></p>
+<p align="center"><b>AND</b></p>
+<p align="center">co founder also work as a Developer at <b>Native Productions</b></p>
 <p align="center">learning new things is a pleasure for me</p>
 
 <h3 align="center">Connect with me:</h3>
