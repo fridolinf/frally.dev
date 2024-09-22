@@ -1,3 +1,9 @@
+<p align="right">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=fridolinf&label=ProfileViews&pretty=true" />
+</a>
+</p>
+
 <p align="center">
   <img
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZmNDNhMjVmYTU2YTRiMTEzNDljZGFiZmZlN2Q3ZjMyZGIwNzAwYyZjdD1n/UPqYp2tj61XlBhlPbH/giphy-downsized.gif"
@@ -5,6 +11,7 @@
     height="250"
   />
 </p>
+
 <h1 align="center">Hi 👋, I'm Frally Fridolin</h1>
 <h3 align="center">
   A really passionate with Frontend and Blockchain Technologies
@@ -49,6 +56,9 @@
     alt="fridolinf"
   />
 </p>
+
+---
+
 <h3 align="left">📘 Languages, Tools, Library and Others:</h3>
 <p dir="auto">
   <a
@@ -397,3 +407,9 @@
       style="max-width: 100%"
   /></a>
 </p>
+
+---
+
+<h3 align="left"> 🏆 GitHub Trophies</h3>
+
+![](https://github-profile-trophy.vercel.app/?username=fridolinf&theme=radical&no-frame=false&no-bg=false&margin-w=4)
